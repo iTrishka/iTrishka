@@ -1,4 +1,4 @@
-# Kristina Hramova, *Front-end developer*
+# Kristina Hramova, *junior Front-end developer*
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-YELLOW?style=for-the-badge&logo=JAVASCRIPT&color=21262D)
 ![HTML](https://img.shields.io/badge/HTML-<RITICAL?style=for-the-badge&logo=HTML5&color=21262D)
